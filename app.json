@@ -1,0 +1,15 @@
+{
+  "name": "Order Tracking",
+  "description": "Let customers track their orders through their store's branded tracking page.",
+  "text": "Want to check your order status? Track your delivery here.",
+  "icon": "icon.png",
+  "action": {
+    "label": "Track My Order",
+    "value": "%trackingPageUrl%",
+    "type": "button"
+  },
+  "properties": {
+    "trackingPageUrl": "Enter your public order tracking page URL, including https://"
+  },
+  "externalurl": "https://openwidget.com/developers/openwidget-apps"
+}
